@@ -41,17 +41,17 @@ define('my-app', class extends WeElement {
             <div class="img1"><img src={head} alt="" /></div>
             <h4>陈志振</h4>
             <p>Web前端开发工程师</p>
-            <p class="t2p1">期望工资：15K</p>
+            {/* <p class="t2p1">期望工资：15K</p> */}
           </div>
           <div class="text2-jl3">
             <div class="lb"><div class="ft">个人信息</div></div>
-            <p>　　     电话：15707950645
-              <br/>　　 Q Q：2384439266
-              <br/>　　 邮箱：2384439266@qq.com
-              <br/>　　 居住：深圳市南山区
-              <br/>　　 GitHub：<a href="https://github.com/ZainChen" target="_blank">https://github.com/ZainChen</a>
-              <br/>　　 个人网站：<a href="https://zainzy.com" target="_blank">https://zainzy.com</a>
-              <br/>　　 博客园：<a href="https://www.cnblogs.com/chenzhiyin" target="_blank">https://www.cnblogs.com/chenzhiyin</a>
+            <p>电话：15707950645
+              <br/>Q Q：2384439266
+              <br/>邮箱：2384439266@qq.com
+              <br/>现居住地：深圳市南山区
+              <br/>GitHub：<a href="https://github.com/ZainChen" target="_blank">https://github.com/ZainChen</a>
+              <br/>个人网站：<a href="https://zainzy.com" target="_blank">https://zainzy.com</a>
+              <br/>博客园：<a href="https://www.cnblogs.com/chenzhiyin" target="_blank">https://www.cnblogs.com/chenzhiyin</a>
             </p>
           </div>
           <div class="text2-jl3">
@@ -66,106 +66,97 @@ define('my-app', class extends WeElement {
           </div>
           <div class="text2-jl3">
             <div class="lb"><div class="ft">荣誉奖项</div></div>
-            <p>　　     1> 2016.03.20第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
-              <br/>　　 2> 2016.05.29第七届蓝桥杯全国软件专业人才大赛(国赛)二等奖 
-              <br/>　　 3> 2017.03.25第八届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
-              <br/>　　 4> 2017.05.27第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖
+            <p>1> 2016.03.20第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
+              <br/>2> 2016.05.29第七届蓝桥杯全国软件专业人才大赛(国赛)二等奖 
+              <br/>3> 2017.03.25第八届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
+              <br/>4> 2017.05.27第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖
             </p>
           </div>
           <div class="text2-jl3">
             <div class="lb"><div class="ft">自我评价</div></div>
-            <p>　　     活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
-              <br/>　　 有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
-              <br/>　　 非常热爱前端，特别好学，超喜欢在前端领域折腾。
+            <p>活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
+              <br/>有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
+              <br/>非常热爱前端，特别好学，超喜欢在前端领域折腾。
             </p>
           </div>
           <div class="text2-jl3">
             <div class="lb"><div class="ft">个人技能</div></div>
-            <p>　　     ●熟悉的知识点：</p>
-            <p>　　     　　     Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端</p>
+            <p>●熟悉的知识点：</p>
+            <p>　　 Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端</p>
             <br/>
-            <p>　　     ●了解的知识点：</p>
-            <p>　　     　　     WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#</p>
+            <p>●了解的知识点：</p>
+            <p>　　 WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#</p>
             <br/>
-            <p>　　     ●常用开发工具：</p>
-            <p>　　     　　     vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等</p>
+            <p>●常用开发工具：</p>
+            <p>　　 vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等</p>
           </div>
           <div class="text2-jl3">
             <div class="lb"><div class="ft">工作经验</div></div>
-            <p>　　     深圳市朗仁科技有限公司&ensp;&ensp;&ensp;&ensp;2017.7-2019.3&ensp;&ensp;&ensp;&ensp;软件工程师
-              <br/>　　 负责公司诊断软件中日产车型模块开发和维护。
-              <br/>　　 
+            <p>深圳市朗仁科技有限公司&ensp;&ensp;&ensp;&ensp;2017.7-2019.3&ensp;&ensp;&ensp;&ensp;软件工程师
+              <br/>负责公司诊断软件中日产车型模块开发和维护。
+              <br/>主要编程语言：
+              <br/>　　 C/C++
+              <br/>主要贡献：
+              <br/>　　 1.开发实现日产车型VIN码自动识别功能。
+              <br/>　　 2.写出高效功能代码和数据处理软件，高幅度全面升级车型。
+              <br/>　　 3.优化软件自动扫描系统算法及数据库结构，提高诊断速度。
             </p>
           </div>
           <div class="text2-jl3">
-            <div class="lb"><div class="ft">项目经验</div></div>
-            <h4><div class="tj3k"></div>项目一  创意拼图游戏（部分展示）</h4>
-            <p class="xmjy">
-              项目网址：<a href="https://zainchen.github.io/czyPuzzle/" target="_blank">https://zainchen.github.io/czyPuzzle/</a>
-        <br/>开发周期：2016.8.9-2016.8.23
-        <br/>开发工具：Sublime Text 3
-        <br/>项目技术：HTML、css、JavaScript
-        <br/>功能亮点： 
-        <br/>　　1>  简洁美观的界面搭配
-        <br/>　　2>  可选择动态图片拼凑    
-        <br/>　　3>  鼠标触摸翻译和语音功能
-        <br/>（PS：PC端效果最佳，未做响应式布局处理）
-        <br/>责任描述：整个网站为自己独立完成
+            <div class="lb"><div class="ft">前端项目</div></div>
+            <div class="xmxian"></div>
+            <h4><div class="tj3k"></div>【项目一】Omi vscode扩展</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/omi-vscode" target="_blank">https://github.com/ZainChen/omi-vscode</a>
+              <br/>扩展商店：<a href="https://marketplace.visualstudio.com/items?itemName=ZainChen.omi" target="_blank">https://marketplace.visualstudio.com/items?itemName=ZainChen.omi</a>
+              <br/>项目预览：vscode扩展中搜索omi下载安装，或进入扩展商店下载
+              <br/>开发周期：2019.02.16-2019.03.07(不间断持续开发中)
+              <br/>开发工具：vscode、Sourcetree
+              <br/>项目技术：Omi、HTML、CSS、JavaScript、TypeScript、nodejs、git、算法
+              <br/>功能亮点： 
+              <br/>　　1>  Omi 生态功能 (显示同步GitHub所有分支节点的树结构，并链接到相应网页)
+              <br/>　　2>  Omi,Omiu代码片段 (支持所有omiu官方组件的代码补全,支持omi常用函数结构代码补全)   
+              <br/>　　3>  帅帅的omi欢迎界面
+              <br/>　　4> 更多好用功能开发中...
             </p>
             <div class="xmxian"></div>
-            <h4><div class="tj3k"></div>项目二  Leida团队电影活动随机座位安排</h4>
-            <p class="xmjy">
-              项目网址：<a href="https://zainchen.github.io/LeidaMovie/" target="_blank">https://zainchen.github.io/LeidaMovie/</a>
-        <br/>开发周期：2016.12.09-2016.12.10
-        <br/>开发工具：Sublime Text 3
-        <br/>项目技术：HTML、css、JavaScript
-        <br/>功能亮点： 
-        <br/>　　1>  创意排版 
-        <br/>　　2>  动画随机分配效果
-        <br/>（PS：PC端效果最佳，未做响应式布局处理）
-        <br/>责任描述：整个网站为自己独立完成
+            <h4><div class="tj3k"></div>【项目二】Json vscode扩展</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/vscode-json" target="_blank">https://github.com/ZainChen/vscode-json</a>
+              <br/>扩展商店：<a href="https://marketplace.visualstudio.com/items?itemName=ZainChen.json" target="_blank">https://marketplace.visualstudio.com/items?itemName=ZainChen.json</a>
+              <br/>项目预览：vscode扩展中搜索omi下载安装，或进入扩展商店下载
+              <br/>开发周期：2019.02.28-2019.02.28(偶尔维护升级)
+              <br/>开发工具：vscode、Sourcetree
+              <br/>项目技术：JavaScript、TypeScript、nodejs、git
+              <br/>功能亮点： 
+              <br/>　　显示json文件的树结构，并实现快速定位跳转及节点全部折叠功能
             </p>
             <div class="xmxian"></div>
-            <h4><div class="tj3k"></div>项目三  手机端电影收藏网站</h4>
-            <p class="xmjy">
-              项目网址：<a href="https://zainchen.github.io/PhoneMovie/" target="_blank">https://zainchen.github.io/PhoneMovie/</a>
-        <br/>开发周期：2016.10.24-2016.10.26
-        <br/>开发工具：Sublime Text 3
-        <br/>项目技术：HTML、css、JavaScript、jquery、Bootstrap、angularjs
-        <br/>功能亮点： 
-        <br/>　　1>  界面简洁美观
-        <br/>　　2>  用户栏有中英文切换功能
-        <br/>　　3>  可在线看电影 
-        <br/>（PS：手机端效果最佳，未做响应式布局处理） 
-        <br/>责任描述：整个网站为自己独立完成
+            <h4><div class="tj3k"></div>【项目三】志银的个人网站</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/www" target="_blank">https://github.com/ZainChen/www</a>
+              <br/>项目预览：https://zainzy.com
+              <br/>开发周期：2018.12.16-2019.03.07(持续开发中)
+              <br/>开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
+              <br/>项目技术：Omi、HTML、CSS、JavaScript、nodejs、PHP、MySQL、Apache、nginx、linux、WordPress、git、svn、jQuery、Bootstrap、HTTP、HTTPS等
+              <br/>功能亮点： 
+              <br/>　　1> 简介美观的主页设计
+              <br/>　　2> 网站暂分四大块：技术博客区、留言区、文件资源区(待开发)、开发区
+              <br/>　　3> 博客系统采用WordPress搭建
+              <br/>　　4> 博客系统内的代码高亮功能采用优质插件，特别好看
+              <br/>　　5> 留言版具备数据库的基本增删查改和搜索功能
+              <br/>　　6> 开发区可收藏学习资源和测试项目等
             </p>
             <div class="xmxian"></div>
-            <h4><div class="tj3k"></div>项目四  Bootstrap响应式页面</h4>
-            <p class="xmjy">
-              项目网址：<a href="https://zainchen.github.io/Bootstrap/" target="_blank">https://zainchen.github.io/Bootstrap/</a>
-        <br/>开发周期：2016.09.20-2016.09.27
-        <br/>开发工具：Sublime Text 3
-        <br/>项目技术：HTML、css、JavaScript、jquery、Bootstrap
-        <br/>功能亮点： 
-        <br/>　　1>  简约大方 
-        <br/>　　2>  同时兼容手机端和pc端显示器的各种分辨率
-        <br/>　　3>  右下角回到顶部按键按下后可加速置顶
-        <br/>（PS：响应式布局，同时支持手机浏览） 
-        <br/>责任描述：整个网站为自己独立完成
+            <h4><div class="tj3k"></div>【项目四】创意拼图游戏</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/www" target="_blank">https://github.com/ZainChen/www</a>
+              <br/>项目预览：https://zainzy.com
+              <br/>开发周期：2018.12.16-2019.03.07(持续开发中)
+              <br/>开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
+              <br/>项目技术：Omi、HTML、CSS、JavaScript、nodejs、PHP、MySQL、Apache、linux、WordPress、git、svn、nginx、jQuery、svg、Bootstrap、HTTP、HTTPS等
+              <br/>功能亮点： 
             </p>
             <div class="xmxian"></div>
-            <h4><div class="tj3k"></div>项目五  小米官网首页</h4>
-            <p class="xmjy">
-              项目网址：<a href="https://zainchen.github.io/MI/" target="_blank">https://zainchen.github.io/MI/</a>
-        <br/>开发周期：2016.09.20-2016.12.23
-        <br/>开发工具：Sublime Text 3
-        <br/>项目技术：HTML、css、JavaScript
-        <br/>功能亮点： 
-        <br/>　　1>  比官网更炫酷的轮播图效果 
-        <br/>　　2>  菜单栏有展开动画
-        <br/>（PS：PC端效果最佳，未做响应式布局处理） 
-        <br/>责任描述：整个网站为自己独立完成
-            </p>
+            <div class="xmxian"></div>
+            <div class="xmxian"></div>
+            <div class="xmxian"></div>
           </div>
           <div class="text1-speak">
           </div>

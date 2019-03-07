@@ -8,7 +8,7 @@ Web前端开发工程师
 电话：15707950645
 Q Q：2384439266
 邮箱：2384439266@qq.com
-居住：深圳市南山区
+现居住地：深圳市南山区
 GitHub：　https://github.com/ZainChen
 个人网站：https://zainzy.com
 博客园：　https://www.cnblogs.com/chenzhiyin
@@ -43,7 +43,7 @@ GitHub：　https://github.com/ZainChen
     C/C++
 主要贡献：
     1.开发实现日产车型VIN码自动识别功能。
-    2.写出高效数据处理软件，批量升级车型数据。
+    2.写出高效功能代码和数据处理软件，高幅度全面升级车型。
     3.优化软件自动扫描系统算法及数据库结构，提高诊断速度。
 
 ---
@@ -61,13 +61,13 @@ GitHub：https://github.com/ZainChen/omi-vscode
     3> 帅帅的omi欢迎界面
     4> 更多好用功能开发中
 
-项目二 json vscode扩展
+项目二 Json vscode扩展
 GitHub：https://github.com/ZainChen/vscode-json
 扩展商店：https://marketplace.visualstudio.com/items?itemName=ZainChen.json
 项目预览：vscode扩展中搜索omi下载安装，或进入扩展商店下载
 开发周期：2019.02.28-2019.02.28(偶尔维护升级)
 开发工具：vscode、Sourcetree
-项目技术：HTML、css、JavaScript、TypeScript、nodejs、git
+项目技术：JavaScript、TypeScript、nodejs、git
 功能亮点：
     显示json文件的树结构，并实现快速定位跳转及节点全部折叠功能
 
@@ -76,7 +76,7 @@ GitHub：https://github.com/ZainChen/www
 项目预览：https://zainzy.com
 开发周期：2018.12.16-2019.03.07(持续开发中)
 开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
-项目技术：Omi、HTML、css、JavaScript、nodejs、PHP、MySQL、Apache、linux、WordPress、git、svn、nginx、jQuery、svg、Bootstrap、HTTP、HTTPS等
+项目技术：Omi、HTML、css、JavaScript、nodejs、PHP、MySQL、nginx、Apache、linux、WordPress、git、svn、jQuery、Bootstrap、HTTP、HTTPS等
 功能亮点：
     1> 简介美观的主页设计
     2> 网站暂分四大块：技术博客区、留言区、文件资源区(待开发)、开发区
