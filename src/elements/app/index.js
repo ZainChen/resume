@@ -40,59 +40,62 @@ define('my-app', class extends WeElement {
           <div class="text2-jl2">
             <div class="img1"><img src={head} alt="" /></div>
             <h4>陈志振</h4>
-            <p>热情、积极、阳光、学习能力强！</p>
-            <p class="t2p1">计算机计应用技术　•　宜春学院</p>
-            <p class="t2p1">男　︳   21岁  ︳ 应届毕业生　︳ 宜春</p>
-            <p class="t2p1">15707950645　︳2384439266@qq.com</p>
+            <p>Web前端开发工程师</p>
+            <p class="t2p1">期望工资：15K</p>
           </div>
           <div class="text2-jl3">
-            <div class="lb"><div class="ft">教育经历</div></div>
+            <div class="lb"><div class="ft">个人信息</div></div>
+            <p>　　     电话：15707950645
+              <br/>　　 Q Q：2384439266
+              <br/>　　 邮箱：2384439266@qq.com
+              <br/>　　 居住：深圳市南山区
+              <br/>　　 GitHub：<a href="https://github.com/ZainChen" target="_blank">https://github.com/ZainChen</a>
+              <br/>　　 个人网站：<a href="https://zainzy.com" target="_blank">https://zainzy.com</a>
+              <br/>　　 博客园：<a href="https://www.cnblogs.com/chenzhiyin" target="_blank">https://www.cnblogs.com/chenzhiyin</a>
+            </p>
+          </div>
+          <div class="text2-jl3">
+            <div class="lb"><div class="ft">教育背景</div></div>
             <div class="tj3nr">
               <div class="tj3nr-left"><img src={school} alt="" /></div>
               <div class="tj3nr-right">
                 <p>宜春学院</p>
-                <p class="tj3nr-zy">计算机计应用技术　　　　　　　　　　　　　2017年毕业</p>
+                <p class="tj3nr-zy">计算机计应用技术（大专）&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2014.09-2017.07</p>
               </div>
             </div>
           </div>
           <div class="text2-jl3">
-            <div class="lb"><div class="ft">期望工作</div></div>
-            <p>目标职能：C/C++、算法、web前端 、web后端、PHP工程师</p>
-            <p>工作地点：深圳</p>
-            <p>期待工资：5k-10k</p>
-          </div>
-          <div class="text2-jl3">
-            <div class="lb"><div class="ft">自我描述</div></div>
-            <p>●性格特点</p>
-            <p>　　活泼开朗，豁达乐观，积极进取，善于沟通，有较强的团队合作意识。 </p>
-            <p>●获奖信息</p>
-            <p>　　1>2016.03.20第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
-          <br/>　　2>2016.05.29第七届蓝桥杯全国软件专业人才大赛(国赛)二等奖 
-          <br/>　　3>2017.03.25第八届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
-          <br/>　　4>2017.05.27第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖
+            <div class="lb"><div class="ft">荣誉奖项</div></div>
+            <p>　　     1> 2016.03.20第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
+              <br/>　　 2> 2016.05.29第七届蓝桥杯全国软件专业人才大赛(国赛)二等奖 
+              <br/>　　 3> 2017.03.25第八届蓝桥杯全国软件专业人才大赛(省赛)一等奖 
+              <br/>　　 4> 2017.05.27第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖
             </p>
           </div>
           <div class="text2-jl3">
-            <div class="lb"><div class="ft">技能评价</div></div>
-            <p>
-              ● 1>熟练掌握C/C++和数据结构方面的知识
-        <br/>● 2>熟练掌握基本算法（搜索、动态规划、字符串匹配相关算法等）
-        <br/>● 3>熟悉html5、css3的一些新特性，对他们用一定的应用能力
-        <br/>● 4>熟练掌握html 、css、JavaScript、jQuery、Objective-C方面的知识
-        <br/>● 5>熟练掌握PHP、MYSQL，能实现一些基本的对数据的增删查改等操作
-        <br/>● 6>能熟练在MAC、Window、Linux平台手动搭建Apache+PHP+Mysql环境
-        <br/>● 7>能熟练使用前端开发的相关软件（Sublime、Dreamweaver，Photoshop）
-        <br/>● 8>掌握Bootstrap, Angularjs框架
-        <br/>● 9>掌握Ajax，能用Ajax解析xml、json格式的数据
-        <br/>●10>熟练掌握Firebug调试工具和谷歌自带的调试工具
-        <br/>●11>对浏览器的兼容问题有丰富的实战经验  
+            <div class="lb"><div class="ft">自我评价</div></div>
+            <p>　　     活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
+              <br/>　　 有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
+              <br/>　　 非常热爱前端，特别好学，超喜欢在前端领域折腾。
             </p>
           </div>
           <div class="text2-jl3">
+            <div class="lb"><div class="ft">个人技能</div></div>
+            <p>　　     ●熟悉的知识点：</p>
+            <p>　　     　　     Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端</p>
             <br/>
-            <p><div class="tj3k"></div>　　<span>我的GitHub</span>　<a href="https://github.com/ZainChen">https://github.com/ZainChen</a></p>
+            <p>　　     ●了解的知识点：</p>
+            <p>　　     　　     WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#</p>
             <br/>
-            <p><div class="tj3k"></div>　　<span>我的博客园</span>　<a href="http://www.cnblogs.com/chenzhiyin/">http://www.cnblogs.com/chenzhiyin/</a></p>
+            <p>　　     ●常用开发工具：</p>
+            <p>　　     　　     vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等</p>
+          </div>
+          <div class="text2-jl3">
+            <div class="lb"><div class="ft">工作经验</div></div>
+            <p>　　     深圳市朗仁科技有限公司&ensp;&ensp;&ensp;&ensp;2017.7-2019.3&ensp;&ensp;&ensp;&ensp;软件工程师
+              <br/>　　 负责公司诊断软件中日产车型模块开发和维护。
+              <br/>　　 
+            </p>
           </div>
           <div class="text2-jl3">
             <div class="lb"><div class="ft">项目经验</div></div>

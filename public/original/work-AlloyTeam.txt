@@ -14,25 +14,26 @@ GitHub：　https://github.com/ZainChen
 博客园：　https://www.cnblogs.com/chenzhiyin
 
 ---
-3.自我评价
-活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
-有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
-非常热爱前端，特别好学，超喜欢在前端领域折腾。
+3.教育背景
+宜春学院        计算机计应用技术（大专）    2014.09-2017.07
 
----
-4.个人技能
-熟悉的知识点：Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端
-了解的知识点：WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#
-常用开发工具：vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等
-
----
-5.教育背景
-宜春学院        计算机科学与技术（大专）    2014.09-2017.07
 荣誉奖项
 •	第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖  2017.05.27 
 •	第八届蓝桥杯全国软件专业人才大赛(省赛)一等奖  2017.03.25
 •	第七届蓝桥杯全国软件专业人才大赛(国赛)二等奖  2016.05.29
 •	第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖  2016.03.20
+
+---
+4.自我评价
+活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
+有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
+非常热爱前端，特别好学，超喜欢在前端领域折腾。
+
+---
+5.个人技能
+熟悉的知识点：Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端
+了解的知识点：WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#
+常用开发工具：vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等
 
 ---
 6.工作经验

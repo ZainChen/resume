@@ -98,14 +98,14 @@
   }
   .text2-jl2 .t2p1 {
 	font-size: 14px;
-	color: #999;
+	/* color: #999; */
   }
   .text2-jl3 .lb {
 	margin-top: 20px;
 	margin-bottom: 15px;
 	width: 150px;
 	height: 15px;
-	background: #07C160;
+	background: #9CE6BF;
   }
   .text2-jl3 .ft {
 	margin: auto;
@@ -147,7 +147,7 @@
 	display: inline-block;
 	width: 13px;
 	height: 15px;
-	background: #07C160;
+	background: #9CE6BF;
   }
   .text2-jl3 h4 {
 	font-size: 15px;
