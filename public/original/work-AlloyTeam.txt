@@ -1,0 +1,142 @@
+1.HEAD
+陈志振
+Web前端开发工程师
+期望工资：15K
+
+---
+2.个人信息
+电话：15707950645
+Q Q：2384439266
+邮箱：2384439266@qq.com
+居住：深圳市南山区
+GitHub：　https://github.com/ZainChen
+个人网站：https://zainzy.com
+博客园：　https://www.cnblogs.com/chenzhiyin
+
+---
+3.个人技能
+熟悉的知识点：Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端
+了解的知识点：shadow dom、svg、canvas、WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#
+常用开发工具：vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等
+
+---
+4.教育背景
+宜春学院        计算机科学与技术（大专）    2014.09-2017.07
+荣誉奖项
+•	第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖  2017.05.27 
+•	第八届蓝桥杯全国软件专业人才大赛(省赛)一等奖  2017.03.25
+•	第七届蓝桥杯全国软件专业人才大赛(国赛)二等奖  2016.05.29
+•	第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖  2016.03.20
+
+---
+5.工作经验
+深圳市朗仁科技有限公司  2017.7-2019.3  软件工程师
+负责公司诊断软件中日产车型模块开发和维护。
+主要编程语言：
+    C/C++
+主要贡献：
+    1.开发实现日产车型VIN码自动识别功能。
+    2.写出高效数据处理软件，批量升级车型数据。
+    3.优化软件自动扫描系统算法及数据库结构，提高诊断速度。
+
+---
+6.自我评价
+活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
+有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
+非常热爱前端，特别好学，超喜欢在前端领域折腾。
+
+---
+7.前端相关项目
+项目一 Omi vscode扩展
+GitHub：https://github.com/ZainChen/omi-vscode
+扩展商店：https://marketplace.visualstudio.com/items?itemName=ZainChen.omi
+项目预览：vscode扩展中搜索omi下载安装，或进入扩展商店下载
+开发周期：2019.02.16-2019.03.07(不间断持续开发中)
+开发工具：vscode、Sourcetree
+项目技术：Omi、HTML、css、JavaScript、TypeScript、nodejs、git、算法
+功能亮点：
+    1> Omi 生态功能 (显示同步GitHub所有分支节点的树结构，并链接到相应网页)
+    2> Omi,Omiu代码片段 (支持所有omiu官方组件的代码补全,支持omi常用函数结构代码补全)
+    3> 帅帅的omi欢迎界面
+    4> 更多好用功能开发中
+
+项目二 json vscode扩展
+GitHub：https://github.com/ZainChen/vscode-json
+扩展商店：https://marketplace.visualstudio.com/items?itemName=ZainChen.json
+项目预览：vscode扩展中搜索omi下载安装，或进入扩展商店下载
+开发周期：2019.02.28-2019.02.28(偶尔维护升级)
+开发工具：vscode、Sourcetree
+项目技术：HTML、css、JavaScript、TypeScript、nodejs、git
+功能亮点：
+    显示json文件的树结构，并实现快速定位跳转及节点全部折叠功能
+
+项目三 志银的个人网站
+GitHub：https://github.com/ZainChen/www
+项目预览：https://zainzy.com
+开发周期：2018.12.16-2019.03.07(持续开发中)
+开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
+项目技术：Omi、HTML、css、JavaScript、nodejs、PHP、MySQL、Apache、linux、WordPress、git、svn、nginx、jQuery、svg、Bootstrap、HTTP、HTTPS等
+功能亮点：
+    1> 简介美观的主页设计
+    2> 网站暂分四大块：技术博客区、留言区、文件资源区(待开发)、开发区
+    3> 博客系统采用WordPress搭建
+    4> 博客系统内的代码高亮功能采用优质插件，特别好看
+    5> 留言版具备数据库的基本增删查改和搜索功能
+    6> 开发区可收藏学习资源和测试项目等
+
+项目四 创意拼图游戏
+GitHub：https://github.com/ZainChen/czyPuzzle
+项目预览：https://zainchen.github.io/czyPuzzle
+开发周期：2016.08.9-2016.08.23
+开发工具：Sublime Text 3
+项目技术：HTML、css、JavaScript、算法
+功能亮点：
+    1> 创意排版
+    2> 动画随机分配效果
+    3> 鼠标触摸翻译和语音功能
+（PS：PC端效果最佳，未做响应式布局处理。项目较大，展示网页为部分功能）
+
+项目五 Leida团队电影活动随机座位安排
+GitHub：https://github.com/ZainChen/LeidaMovie
+项目预览：https://zainchen.github.io/LeidaMovie
+开发周期：2016.12.09-2016.12.10
+开发工具：Sublime Text 3
+项目技术：HTML、css、JavaScript、算法
+功能亮点：
+　　1> 创意排版
+　　2> 动画随机分配效果
+（PS：PC端效果最佳，未做响应式布局处理）
+
+项目六 手机端电影收藏网站
+GitHub：https://github.com/ZainChen/PhoneMovie
+项目预览：https://zainchen.github.io/PhoneMovie
+开发周期：2016.10.24-2016.10.26
+开发工具：Sublime Text 3
+项目技术：HTML、css、JavaScript、jQuery、Bootstrap、Angularjs
+功能亮点：
+　　1> 界面简洁美观
+　　2> 用户栏有中英文切换功能
+　　3> 可在线看电影
+（PS：手机端效果最佳，未做响应式布局处理）
+
+项目七 Bootstrap响应式页面
+GitHub：https://github.com/ZainChen/Bootstrap
+项目预览：https://zainchen.github.io/Bootstrap
+开发周期：2016.09.20-2016.09.27
+开发工具：Sublime Text 3
+项目技术：HTML、css、JavaScript、jquery、Bootstrap
+功能亮点：
+　　1> 简约大方
+　　2> 同时兼容手机端和pc端显示器的各种分辨率
+　　3> 右下角回到顶部按键按下后可加速置顶
+
+项目八 仿小米官网首页
+GitHub：https://github.com/ZainChen/MI
+项目预览：https://zainchen.github.io/MI
+开发周期：2016.09.20-2016.12.23 
+开发工具：Sublime Text 3 
+项目技术：HTML、css、JavaScript 
+功能亮点： 
+　　1> 比官网更炫酷的轮播图效果 
+　　2> 菜单栏有展开动画 
+（PS：PC端效果最佳，未做响应式布局处理） 
