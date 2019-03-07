@@ -14,13 +14,19 @@ GitHub：　https://github.com/ZainChen
 博客园：　https://www.cnblogs.com/chenzhiyin
 
 ---
-3.个人技能
+3.自我评价
+活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
+有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
+非常热爱前端，特别好学，超喜欢在前端领域折腾。
+
+---
+4.个人技能
 熟悉的知识点：Omi部分生态、HTML/HTML5、CSS/CSS3、JavaScript、jQuery、nodejs、npm、Webpack、Bootstrap、PHP、MySQL、C/C++、算法(排序、动态规划、DFS、字符串匹配相关算法等)、数据结构、MFC、Python、服务器环境搭建(nginx、Apache、IIS)、搭建git和svn服务端
-了解的知识点：shadow dom、svg、canvas、WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#
+了解的知识点：WebGL、Angularjs、Ajax、白鹭引擎、Objective-C、QT、C#
 常用开发工具：vscode、vs2015、sublime、svn、git、Sourcetree、Everything、PuTTY、Beyond Compare等
 
 ---
-4.教育背景
+5.教育背景
 宜春学院        计算机科学与技术（大专）    2014.09-2017.07
 荣誉奖项
 •	第八届蓝桥杯全国软件专业人才大赛(国赛)一等奖  2017.05.27 
@@ -29,7 +35,7 @@ GitHub：　https://github.com/ZainChen
 •	第七届蓝桥杯全国软件专业人才大赛(省赛)一等奖  2016.03.20
 
 ---
-5.工作经验
+6.工作经验
 深圳市朗仁科技有限公司  2017.7-2019.3  软件工程师
 负责公司诊断软件中日产车型模块开发和维护。
 主要编程语言：
@@ -38,12 +44,6 @@ GitHub：　https://github.com/ZainChen
     1.开发实现日产车型VIN码自动识别功能。
     2.写出高效数据处理软件，批量升级车型数据。
     3.优化软件自动扫描系统算法及数据库结构，提高诊断速度。
-
----
-6.自我评价
-活泼开朗，豁达乐观，积极进取，善于沟通，有很强的团队合作意识，学习能力强，逻辑能力强。
-有非常好的代码习惯，能够编写出高效高性能的可维护性代码。
-非常热爱前端，特别好学，超喜欢在前端领域折腾。
 
 ---
 7.前端相关项目
