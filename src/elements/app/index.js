@@ -113,6 +113,12 @@ define('my-app', class extends WeElement {
             </p>
           </div>
           <div class="text2-jl3">
+            <div class="lb"><div class="ft1">GitHub贡献</div></div>
+            <p>●omiu API修正和优化：<a href="https://github.com/Tencent/omi/pull/275" target="_blank">https://github.com/Tencent/omi/pull/275</a>
+              <br/>●highlightjs有效issues，字符编码相关bug反馈：<a href="https://github.com/highlightjs/highlight.js/issues/1901" target="_blank">https://github.com/highlightjs/highlight.js/issues/1901</a>
+            </p>
+          </div>
+          <div class="text2-jl3">
             <div class="lb"><div class="ft">前端项目</div></div>
             <div class="xmxian"></div>
             <h4><div class="tj3k"></div>【项目一】Omi vscode扩展</h4>
