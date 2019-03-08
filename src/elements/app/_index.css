@@ -170,7 +170,13 @@
 	width: 500px;
 	height: 15px;
 	border-top: 1px solid #999;
-  }
+	}
+	.xmxian1 {
+		margin-top: 10px;
+		/* width: 500px; */
+		height: 15px;
+		border-top: 1px solid #999;
+	}
   .picture-bottom {
 	margin-top: 15px;
 	padding-bottom: 25px;

@@ -26,13 +26,23 @@ define('my-app', class extends WeElement {
           </div>
           <div class="picture-top1"></div>
           <div class="text1-speak">
+            <p>　　留言：<br/>
+            　　谢谢当总抽时间来看我的简历。我很想加入AlloyTeam团队，刚毕业那年(2017年7月)就开始想了。最下面的那段留言也是那时候写的，简历发过给AlloyTeam团队邮箱，但没敢发给团队内部人员看（当时加了于涛总的QQ，就聊了几句，那时候本想直接投简历给他的，因为自己没信心放弃了这个想法）。现在我的想法和之前写那留言的时候是一样的，现在目标更明确了，我想加入团队，跟着当总一起学习，一起工作。
+            <br/>　　我的前份工作不是前端，对前端没有实战经验，很多都不会。这种情况下之所以有勇气投这份简历原因主要有两点：
+            <br/>　　　　1.特别向往AlloyTeam团队。
+            <br/>　　　　2.有信心付出不输于任何人的努力，哪怕自己笨点，但相信只要肯花时间，一定可以把所有工作上的事做好。不仅要把工作做好，而且还要学习各种知识，知识是相通的，要把所有知识都融入到自己的开发和工作中。
+            <br/>　　希望当总能给我一个机会，和你一起学习、工作。
+            </p>
+            <div class="xmxian1"></div>
+            <p>下面是刚毕业那年想写给于涛前辈申请加入AlloyTeam的留言：</p>
+            <div class="xmxian1"></div>
             <h3 title="I'm fond of participating in AlloyTeam">AlloyTeam，我想加入你们！</h3>
             <p>　　前辈：<br/>　　您好！<br/>
-          　　非常高兴您能抽出宝贵的时间来看我的简历。很想加入AlloyTeam团队，作为一块“金属”融入到AlloyTeam团队中。虽然现在的我是一块几乎全是杂质的金属，甚至可能都算不上金属，但很确定自己生出了一个念头，一个打算付出自己全部努力去达到的念头：融入AlloyTeam团队！哪怕自己现在是块非金属，也坚信一定能通过某种方法让自己成为一种具有金属特征的物质，融入到合金中。
-          <br/>　　合金相对于普通金属之所以能更强，不仅是因为它是众多好的物质、技术和才华的集合体。更重要的是合金内部各种物质的相互影响力，这种力量决定了合金的一切，合金里的所有物质都在这种力量下变得更好更强大。希望自己也成为那份力量的源泉和受益者，在自己水平和能力提高的同时，为团队的发展付出自己所有的力量，并以努力、虚心、耐心、积极、主动、好学、热心、诚实等态度在团队度过每一天。
-          <br/>　　希望通过这份简历，能使您对我有一个更全面更深入的了解。希望能得到一个机会，成为团队一员，有机会以无比的热情和勤奋的工作回报您的知遇之恩。
-          <br/>　　最后，希望AlloyTeam团队越来越强大！
-          <br/>　　[自荐人：陈志振]</p>
+            　　非常高兴您能抽出宝贵的时间来看我的简历。很想加入AlloyTeam团队，作为一块“金属”融入到AlloyTeam团队中。虽然现在的我是一块几乎全是杂质的金属，甚至可能都算不上金属，但很确定自己生出了一个念头，一个打算付出自己全部努力去达到的念头：融入AlloyTeam团队！哪怕自己现在是块非金属，也坚信一定能通过某种方法让自己成为一种具有金属特征的物质，融入到合金中。
+            <br/>　　合金相对于普通金属之所以能更强，不仅是因为它是众多好的物质、技术和才华的集合体。更重要的是合金内部各种物质的相互影响力，这种力量决定了合金的一切，合金里的所有物质都在这种力量下变得更好更强大。希望自己也成为那份力量的源泉和受益者，在自己水平和能力提高的同时，为团队的发展付出自己所有的力量，并以努力、虚心、耐心、积极、主动、好学、热心、诚实等态度在团队度过每一天。
+            <br/>　　希望通过这份简历，能使您对我有一个更全面更深入的了解。希望能得到一个机会，成为团队一员，有机会以无比的热情和勤奋的工作回报您的知遇之恩。
+            <br/>　　最后，希望AlloyTeam团队越来越强大！
+            <br/>　　[自荐人：陈志振]</p>
           </div>
           <div class="text2-jl1">
             <h3>我的简历</h3>
@@ -132,7 +142,7 @@ define('my-app', class extends WeElement {
             <div class="xmxian"></div>
             <h4><div class="tj3k"></div>【项目三】志银的个人网站</h4>
             <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/www" target="_blank">https://github.com/ZainChen/www</a>
-              <br/>项目预览：https://zainzy.com
+              <br/>项目预览：<a href="https://zainzy.com" target="_blank">https://zainzy.com</a>
               <br/>开发周期：2018.12.16-2019.03.07(持续开发中)
               <br/>开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
               <br/>项目技术：Omi、HTML、CSS、JavaScript、nodejs、PHP、MySQL、Apache、nginx、linux、WordPress、git、svn、jQuery、Bootstrap、HTTP、HTTPS等
@@ -145,18 +155,76 @@ define('my-app', class extends WeElement {
               <br/>　　6> 开发区可收藏学习资源和测试项目等
             </p>
             <div class="xmxian"></div>
-            <h4><div class="tj3k"></div>【项目四】创意拼图游戏</h4>
-            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/www" target="_blank">https://github.com/ZainChen/www</a>
-              <br/>项目预览：https://zainzy.com
-              <br/>开发周期：2018.12.16-2019.03.07(持续开发中)
-              <br/>开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
-              <br/>项目技术：Omi、HTML、CSS、JavaScript、nodejs、PHP、MySQL、Apache、linux、WordPress、git、svn、nginx、jQuery、svg、Bootstrap、HTTP、HTTPS等
+            <h4><div class="tj3k"></div>【项目四】志银的窗口小框架</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/zain" target="_blank">https://github.com/ZainChen/zain</a>
+              <br/>项目预览：<a href="https://zainchen.github.io/zain" target="_blank">https://zainchen.github.io/zain</a>
+              <br/>开发周期：2016.11.7-2016.11.29(不会放弃的项目)
+              <br/>开发工具：Sublime Text 3
+              <br/>项目技术：HTML、css、JavaScript、算法
               <br/>功能亮点： 
+              <br/>　　1> 创新，希望以后有一种全新的网站浏览模式：网站系统化，每个网站都是一个独立的操作系统。
+              <br/>　　2> 使用简单、灵活、自由
+              <br/>　　3> 语义化html标签
+              <br/>　　4> 窗口可嵌套、拖拽放大缩小
             </p>
             <div class="xmxian"></div>
+            <h4><div class="tj3k"></div>【项目五】创意拼图游戏</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/czyPuzzle" target="_blank">https://github.com/ZainChen/czyPuzzle</a>
+              <br/>项目预览：<a href="https://zainchen.github.io/czyPuzzle" target="_blank">https://zainchen.github.io/czyPuzzle</a>
+              <br/>开发周期：2016.08.9-2016.08.23
+              <br/>开发工具：Sublime Text 3
+              <br/>项目技术：HTML、css、JavaScript、算法
+              <br/>功能亮点：
+              <br/>　　1> 创意排版
+              <br/>　　2> 动画随机分配效果
+              <br/>　　3> 鼠标触摸翻译和语音功能
+            </p>
             <div class="xmxian"></div>
+            <h4><div class="tj3k"></div>【项目六】Leida团队电影活动随机座位安排</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/LeidaMovie" target="_blank">https://github.com/ZainChen/LeidaMovie</a>
+              <br/>项目预览：<a href="https://zainchen.github.io/LeidaMovie" target="_blank">https://zainchen.github.io/LeidaMovie</a>
+              <br/>开发周期：2016.12.09-2016.12.10
+              <br/>开发工具：Sublime Text 3
+              <br/>项目技术：HTML、css、JavaScript、算法
+              <br/>功能亮点：
+              <br/>　　1> 创意排版
+              <br/>　　2> 动画随机分配效果
+            </p>
             <div class="xmxian"></div>
+            <h4><div class="tj3k"></div>【项目七】手机端电影收藏网站</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/PhoneMovie" target="_blank">https://github.com/ZainChen/PhoneMovie</a>
+              <br/>项目预览：<a href="https://zainchen.github.io/PhoneMovie" target="_blank">https://zainchen.github.io/PhoneMovie</a>
+              <br/>开发周期：2016.10.24-2016.10.26
+              <br/>开发工具：Sublime Text 3
+              <br/>项目技术：HTML、css、JavaScript、jQuery、Bootstrap、Angularjs
+              <br/>功能亮点：
+              <br/>　　1> 界面简洁美观
+              <br/>　　2> 用户栏有中英文切换功能
+              <br/>　　3> 可在线看电影
+            </p>
             <div class="xmxian"></div>
+            <h4><div class="tj3k"></div>【项目八】Bootstrap响应式页面</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/Bootstrap" target="_blank">https://github.com/ZainChen/Bootstrap</a>
+              <br/>项目预览：<a href="https://zainchen.github.io/Bootstrap" target="_blank">https://zainchen.github.io/Bootstrap</a>
+              <br/>开发周期：2016.09.20-2016.09.27
+              <br/>开发工具：Sublime Text 3
+              <br/>项目技术：HTML、css、JavaScript、jquery、Bootstrap
+              <br/>功能亮点：
+              <br/>　　1> 简约大方
+              <br/>　　2> 同时兼容手机端和pc端显示器的各种分辨率
+              <br/>　　3> 右下角回到顶部按键按下后可加速置顶
+            </p>
+            <div class="xmxian"></div>
+            <h4><div class="tj3k"></div>【项目九】仿小米官网首页</h4>
+            <p class="xmjy"> GitHub：<a href="https://github.com/ZainChen/MI" target="_blank">https://github.com/ZainChen/MI</a>
+              <br/>项目预览：<a href="https://zainchen.github.io/MI" target="_blank">https://zainchen.github.io/MI</a>
+              <br/>开发周期：2016.09.20-2016.12.23 
+              <br/>开发工具：Sublime Text 3
+              <br/>项目技术：HTML、css、JavaScript
+              <br/>功能亮点：
+              <br/>　　1> 比官网更炫酷的轮播图效果
+              <br/>　　2> 菜单栏有展开动画
+            </p>
           </div>
           <div class="text1-speak">
           </div>
