@@ -153,7 +153,7 @@ define('my-app', class extends WeElement {
               <br/>开发工具：vscode、Sourcetree、Sublime、PHPMyAdmin、PuTTY、VMware Workstation Pro、ColorPix等
               <br/>项目技术：Omi、HTML、CSS、JavaScript、nodejs、PHP、MySQL、Apache、nginx、linux、WordPress、git、svn、jQuery、Bootstrap、HTTP、HTTPS等
               <br/>功能亮点： 
-              <br/>　　1> 简介美观的主页设计
+              <br/>　　1> 简洁美观的主页设计
               <br/>　　2> 网站暂分四大块：技术博客区、留言区、文件资源区(待开发)、开发区
               <br/>　　3> 博客系统采用WordPress搭建
               <br/>　　4> 博客系统内的代码高亮功能采用优质插件，特别好看
