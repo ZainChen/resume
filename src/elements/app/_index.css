@@ -63,6 +63,7 @@
   .text1-speak,.text2-jl1,.text2-jl2,.text2-jl3 {
 	margin: auto;
 	margin-top: 15px;
+	padding-top: 8px;
 	width: 800px;
 	background: #fff;
 	border-top: 1px solid #888;
