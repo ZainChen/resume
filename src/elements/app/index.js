@@ -115,6 +115,7 @@ define('my-app', class extends WeElement {
           <div class="text2-jl3">
             <div class="lb"><div class="ft1">GitHub贡献</div></div>
             <p>●omiu API修正和优化：<a href="https://github.com/Tencent/omi/pull/275" target="_blank">https://github.com/Tencent/omi/pull/275</a>
+            <br/>●vscode-leetcode 添加一件收缩菜单树功能建议：<a href="https://github.com/jdneo/vscode-leetcode/pull/197" target="_blank">https://github.com/jdneo/vscode-leetcode/pull/197</a>
               <br/>●highlightjs有效issues，字符编码相关bug反馈：<a href="https://github.com/highlightjs/highlight.js/issues/1901" target="_blank">https://github.com/highlightjs/highlight.js/issues/1901</a>
             </p>
           </div>
