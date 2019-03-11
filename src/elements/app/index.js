@@ -24,7 +24,7 @@ define('my-app', class extends WeElement {
             <div class="p-left"></div>
             <div class="p-right"></div>
           </div>
-          <div class="picture-top1"></div>
+          {/* <div class="picture-top1"></div> */}
           <div class="text1-speak">
             <p>　　留言：<br/>
             　　谢谢当总抽时间来看我的简历。我很想加入AlloyTeam团队，刚毕业那年(2017年7月)就开始想了。最下面的那段留言也是那时候写的，简历发过给AlloyTeam团队邮箱，但没敢发给团队内部人员看（当时加了于涛总的QQ，就聊了几句，那时候本想直接投简历给他的，因为自己没信心放弃了这个想法）。现在我的想法和之前写那留言的时候是一样的，现在目标更明确了，我想加入团队，跟着当总一起学习，一起工作。
@@ -70,7 +70,7 @@ define('my-app', class extends WeElement {
               <div class="tj3nr-left"><img src={school} alt="" /></div>
               <div class="tj3nr-right">
                 <p>宜春学院</p>
-                <p class="tj3nr-zy">计算机计应用技术（大专）&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2014.09-2017.07</p>
+                <p class="tj3nr-zy">计算机应用技术（大专）&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2014.09-2017.07</p>
               </div>
             </div>
           </div>
